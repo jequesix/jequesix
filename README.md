@@ -1,1 +1,1 @@
-I'm a 16 year old developer who likes tinkering with Linux and coding random programs.
+I tinker with Linux and write random programs
